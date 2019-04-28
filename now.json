@@ -1,1 +1,1 @@
-{"version":2,"name":"jarmul","builds":[{"src":"package.json","use":"@now/next"}]}
+{"version":2,"name":"jarmul","builds":[{"src":"pages/index.html","use":"@now/html-minifier"}]}
